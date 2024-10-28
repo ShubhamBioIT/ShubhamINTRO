@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubham3000
 - 👀 I’m interested in AI/ML specifically for Bioinformatics
-- 🌱 I’m currently learning Msc Bioinfotmatics
-- 💞️ I’m looking to collaborate on REAEARCH & DEVELOPMENT By AI,ML,DL,LLM 
+- 🌱 I’m currently learning Msc Bioinformatics
+- 💞️ I’m looking to collaborate on REAEARCH & DEVELOPMENT By Applying AI,ML,DL to Bioinformatics 
 - 📫 How to reach me - shubhammahindrakar2104@gmail.com , just mail me
 - 😄 Pronouns: shubzz_op
 - ⚡ Fun fact: The fun fact is there is no fun fact
